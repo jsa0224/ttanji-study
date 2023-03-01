@@ -4,8 +4,9 @@
 딴지 스터디는 면접 대비 스터디입니다.
 
 ## 참여자
-|[제이푸시]()|[Gundy]()|[Ayaan]()|[애종]()|[som]()|
-|:---:|:---:|:---:|:---:|:---:|
+|[Gundy](https://github.com/Gundy93)|[Ayaan](https://github.com/oneStar92)|[애종](https://github.com/jonghancha)|[som](https://github.com/jsa0224)|
+|:---:|:---:|:---:|:---:|
+|<img src= "https://avatars.githubusercontent.com/u/106914201?v=4" width ="200">|<img src= "https://avatars.githubusercontent.com/u/32012924?v=4" width ="200">|<img src= "https://avatars.githubusercontent.com/u/73284068?v=4" width ="200">|<img src= "https://avatars.githubusercontent.com/u/94514250?v=4" width ="200">|
 
 ## 질문 리스트
 ### 1. [iOS Interviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
@@ -14,9 +15,9 @@
 
 #### iOS 관련 질문
 |질문|준비 여부|
-|---|---|
-|Bounds 와 Frame 의 차이점을 설명하시오.||
-|실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.||
+|---|:---:|
+|Bounds 와 Frame 의 차이점을 설명하시오.|✅|
+|실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.|✅|
 |앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?||
 |앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?||
 |App thinning에 대해서 설명하시오.||
@@ -58,8 +59,8 @@
 
 #### Autolayout 관련 질문
 |질문|준비 여부|
-|---|---|
-|오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)||
+|---|:---:|
+|오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)|✅|
 |hugging, resistance에 대해서 설명하시오.||
 |Intrinsic Size에 대해서 설명하시오.||
 |스토리보드를 이용했을때의 장단점을 설명하시오.||
@@ -70,10 +71,10 @@
 
 #### Swift 관련 질문
 |질문|준비 여부|
-|---|---|
-|struct와 class와 enum의 차이를 설명하시오.||
-|class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.||
-|Copy On Write는 어떤 방식으로 동작하는지 설명하시오.||
+|---|:---:|
+|struct와 class와 enum의 차이를 설명하시오.|✅|
+|class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.|✅|
+|Copy On Write는 어떤 방식으로 동작하는지 설명하시오.|✅|
 |Convenience init에 대해 설명하시오.||
 |AnyObject에 대해 설명하시오.||
 |Optional 이란 무엇인지 설명하시오.||
@@ -85,13 +86,13 @@
 |Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.||
 |Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.||
 |KVO 동작 방식에 대해 설명하시오.||
-|Delegates와 Notification 방식의 차이점에 대해 설명하시오.||
+|Delegates와 Notification 방식의 차이점에 대해 설명하시오.|✅|
 |멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.||
 |MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.||
 |프로토콜이란 무엇인지 설명하시오.||
 |Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.||
 |Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.||
-|mutating 키워드에 대해 설명하시오.||
+|mutating 키워드에 대해 설명하시오.|✅|
 |탈출 클로저에 대하여 설명하시오.||
 |Extension에 대해 설명하시오.||
 |Extension 내부에서 함수를 override할 수 있는지 설명하시오.||
