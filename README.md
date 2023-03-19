@@ -18,18 +18,18 @@
 |---|:---:|
 |Bounds 와 Frame 의 차이점을 설명하시오.|✅|
 |실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.|✅|
-|앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?||
+|앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|✅|
 |앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?||
 |App thinning에 대해서 설명하시오.||
 |앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?||
 |@Main에 대해서 설명하시오.||
-|앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?||
+|앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?|✅|
 |상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.||
-|앱이 In-Active 상태가 되는 시나리오를 설명하시오.||
+|앱이 In-Active 상태가 되는 시나리오를 설명하시오.|✅|
 |scene delegate에 대해 설명하시오.||
 |UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?||
 |App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.||
-|NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.||
+|NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.|✅|
 |GCD API 동작 방식과 필요성에 대해 설명하시오.||
 |Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.||
 |iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?||
@@ -49,10 +49,10 @@
 |setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.||
 |stackView의 장점과 단점에 대해서 설명하시오.||
 |NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.||
-|URLSession에 대해서 설명하시오.||
+|URLSession에 대해서 설명하시오.|✅|
 |prepareForReuse에 대해서 설명하시오.||
-|다크모드를 지원하는 방법에 대해 설명하시오.||
-|ViewController의 생명주기를 설명하시오.||
+|다크모드를 지원하는 방법에 대해 설명하시오.|✅|
+|ViewController의 생명주기를 설명하시오.|✅|
 |TableView와 CollectionView의 차이점을 설명하시오.||
 
 <br>
@@ -63,9 +63,9 @@
 |오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)|✅|
 |hugging, resistance에 대해서 설명하시오.|✅|
 |Intrinsic Size에 대해서 설명하시오.|✅|
-|스토리보드를 이용했을때의 장단점을 설명하시오.||
-|Safearea에 대해서 설명하시오.||
-|Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.||
+|스토리보드를 이용했을때의 장단점을 설명하시오.|✅|
+|Safearea에 대해서 설명하시오.|✅|
+|Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.|✅|
 
 <br>
 
@@ -76,7 +76,7 @@
 |class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.|✅|
 |Copy On Write는 어떤 방식으로 동작하는지 설명하시오.|✅|
 |Convenience init에 대해 설명하시오.|✅|
-|AnyObject에 대해 설명하시오.||
+|AnyObject에 대해 설명하시오.|✅|
 |Optional 이란 무엇인지 설명하시오.||
 |Struct 가 무엇이고 어떻게 사용하는지 설명하시오.||
 |Subscripts에 대해 설명하시오.||
@@ -93,7 +93,7 @@
 |Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.||
 |Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.||
 |mutating 키워드에 대해 설명하시오.|✅|
-|탈출 클로저에 대하여 설명하시오.||
+|탈출 클로저에 대하여 설명하시오.|✅|
 |Extension에 대해 설명하시오.||
 |Extension 내부에서 함수를 override할 수 있는지 설명하시오.||
 |접근 제어자의 종류엔 어떤게 있는지 설명하시오.||
